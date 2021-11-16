@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ranviee
-- 🌱 I’m currently major Computer Engineering.
 - 📫 How to reach me : https://discord.gg/T2KVvEtvbw
 
 <!---
